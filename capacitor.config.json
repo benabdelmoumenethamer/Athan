@@ -1,0 +1,8 @@
+{
+  "appId": "com.adhan.algeria.app",
+  "appName": "Adhan",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
