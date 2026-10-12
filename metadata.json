@@ -1,0 +1,10 @@
+{
+  "name": "آذان – Adhan أوقات الصلاة",
+  "description": "Application Android & PWA de rappel des cinq prières : calcul précis, Algérie 58 wilayas, adhan complet, bilingue arabe/français.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
